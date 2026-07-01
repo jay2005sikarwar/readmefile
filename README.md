@@ -1,6 +1,33 @@
-<h1 align="center">Hi 👋, I'm Jay Sikarwar</h1>
+<div align="center">
 
-<h3 align="center"> Full Stack Developer | DSA Enthusiast | B.Tech CSE</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6C63FF,25:00C9FF,50:00E5FF,75:00FFA3,100:7C4DFF&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=twinkling"/>
+
+# 🌌 𝙅𝘼𝙔 𝙎𝙄𝙆𝘼𝙍𝙒𝘼𝙍 🚀
+
+### ✨ Crafting Code • Building Experiences • Solving Problems ✨
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=💻+Full+Stack+Developer;☕+Java+Developer;🚀+MERN+Stack+Developer;🧠+DSA+Enthusiast;⚡+Always+Learning+New+Things"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MERN-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-7B61FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github"/>
+</p>
+
+<p align="center">
+  <b>🚀 Building Scalable Applications • 💡 Solving Problems • 🌱 Learning Every Day</b>
+</p>
+
+</div>
+
+---
+
+---
+
+<p align="center">
+🚀 Passionate about building impactful web applications and mastering Data Structures & Algorithms.
+</p>
 
 ---
 
@@ -18,13 +45,19 @@
 
 ---
 
-## 🌟 About Me
+## ⚡ About_Me
 
-- 🎓 B.Tech CSE (Pre-Final Year)  
-- 💻 Passionate about Web Development & DSA  
-- 🌱 Learning Backend & System Design  
-- 🎯 Goal: Crack top product-based companies  
+🖥️ **STATUS:** ONLINE
 
+🎓 Education ➜ **B.Tech CSE (Final Year)**
+
+💻 Specialization ➜ **Full Stack Development • DSA**
+
+📚 Loading ➜ **Backend • System Design**
+
+🎯 Target Locked ➜ **Top Product-Based Companies 🚀**
+
+✨ Motto ➜ *Code. Learn. Build. Repeat.*
 ---
 
 ## 🧠 LeetCode Stats
@@ -33,9 +66,7 @@
   <img src="https://leetcard.jacoblin.cool/jay_sikarwar?theme=dark&font=Baloo" />
 </p>
 
-<p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=jay_sikarwar" />
-</p>
+
 
 ---
 
