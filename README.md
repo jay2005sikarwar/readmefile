@@ -107,11 +107,13 @@ https://jay2005sikarwar.github.io/weather-app/
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jay2005sikarwar/jay2005sikarwar/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
