@@ -98,11 +98,9 @@ https://jay2005sikarwar.github.io/weather-app/
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jay Sikarwar&bg_color=0D1117&color=00FFB2&line=00FFB2&point=FFFFFF&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jay2005sikarwar&bg_color=0D1117&color=00F5FF&line=7C3AED&point=FFFFFF&area=true&area_color=00F5FF&hide_border=true&hide_title=true&radius=16"/>
 
 </div>
-
----
 
 ## 📫 Connect with Me
 
