@@ -94,6 +94,16 @@ https://jay2005sikarwar.github.io/weather-app/
 
 ---
 
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MridulSingh3&bg_color=0D1117&color=00FFB2&line=00FFB2&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
 ## 📫 Connect with Me
 
 <p align="center">
