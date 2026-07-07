@@ -158,7 +158,7 @@ https://jay2005sikarwar.github.io/weather-app/
 
 ## ⚡ Fun Fact
 
-> I turn coffee ☕ into code 💻 and bugs 🐛 
+> I turn coffee ☕ into code 💻 and bugs   
 
 ---
 
